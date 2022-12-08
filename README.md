@@ -1,5 +1,5 @@
 <h1 align="center">
- 📘 Imersaocss - Mue primeiro codigo html e css
+ 📘 Imersaocss - Meu primeiro codigo html e css
 </h1>
 
 <p align="center">
@@ -13,12 +13,6 @@
   <a href="https://www.linkedin.com/in/t%C3%A1lison-miguel/">
     <img alt="Made by Tálison" src="https://img.shields.io/badge/made%20by-talison-red">
   </a>
-</p>
-
----
-
-<p align="center">
-  <img alt="Imagem da Aplicação" src="site.jpg" />
 </p>
 
 ---
