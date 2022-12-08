@@ -41,11 +41,6 @@ Este é um repositório contendo meu primeiro codigo html e css, da irmersãoCss
 ✅ [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) <br/>
 ✅ [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) <br/>
 
-### Padronização de código
-
-  - [Arquitetura de Projetos com SASS do Matheus Battisti]
-  - :mouse: [Editor Config](https://editorconfig.org/)
-
 ### IDE
 
   - [Visual Studio Code](https://code.visualstudio.com/)
